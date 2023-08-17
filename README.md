@@ -6,6 +6,7 @@ Includes smart and comprehensive use of Design Patterns to ensure maximum code f
 
 ## Technology Stack
 FrontEnd: C++ cv libary
+
 BackEnd: C++ Uses the advantages of the C++ language in addition to current and generic writing.
 
 
